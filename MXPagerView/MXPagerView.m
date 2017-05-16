@@ -238,7 +238,7 @@
     }
     
     //The page did change, now unload hidden pages
-    [self unLoadHiddenPages];
+//    [self unLoadHiddenPages];
 }
 
 - (void)loadPageAtIndex:(NSInteger)index {
